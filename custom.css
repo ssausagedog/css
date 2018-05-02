@@ -1,0 +1,33 @@
+
+body {
+    font-family: "Default Sans Serif";
+    color:black;
+    padding-top: 0px;
+}
+
+b, strong {
+  color: blue;
+}
+
+a {
+  color:black;
+}
+
+.vscode-light,
+.vscode-light pre code {
+	color: black;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+p, li, li ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+hr {
+    border: 1px solid;
+    height: 0;
+}
